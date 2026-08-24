@@ -1,0 +1,63 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+.python-version
+
+# --- PyInstaller ---
+*.spec
+# (Keep these if you actually hand-edit a .spec — otherwise they're auto-generated)
+
+# --- t3r runtime data ---
+# Local config / logs the app writes at runtime
+config.json
+*.log
+t3r.log
+
+# --- IDE / editor ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Packaging output ---
+*.exe
+*.msi
+t3r.exe
+
+# --- Misc ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
