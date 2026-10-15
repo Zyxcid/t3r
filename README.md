@@ -18,6 +18,6 @@ A minimalist, portable 20-20-20 rule timer for Windows.
 
 <img width="1600" height="900" alt="{CC08903F-07B0-4B5A-9BB1-09E055EC5273}" src="https://github.com/user-attachments/assets/a2594048-3334-4ca6-870f-bd5d3429d601" />
 
-**[Download](../../releases)** · **[Build &amp; packaging notes](BUILDING.md)**
+**[Download](../../releases)**
 
 </div>
